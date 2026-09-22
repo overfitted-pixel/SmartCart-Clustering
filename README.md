@@ -79,6 +79,7 @@ How to Run
 bash
 pip install pandas numpy scikit-learn kneed matplotlib seaborn
 jupyter notebook smartcart.ipynb
+
 Business Impact
 
 These segments let SmartCart move from generic campaigns to targeted strategies: premium offers for high-value singles (Cluster 3), loyalty/upsell campaigns for high-value couples (Cluster 1), and value-focused retention campaigns for the two budget-conscious segments (Clusters 0 and 2) most at risk of disengagement.
